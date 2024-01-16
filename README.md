@@ -1,5 +1,5 @@
 # attAck_d3mo5
-This repo contains video illustrations of what happens in my labs behind the scenes, these are all for educational purposes only and should be used ethically. 
+This repo contains video illustrations of what happens in my labs behind the scenes. *For educational purposes only and should be used ethically.
 
 # Illustrating ZeroLogon, Domain Hash Dumping, and Remote Code Execution 
 In this video, I will be using ZeroLogon to exploit the Domain Controller which would essentially give me no password access to dump hashes remotely on the Domain Controller. After obtaining hashes. I will be using a privileged users hash to remotely execute commands with psexec from adversary machine to Domain Controller. 
