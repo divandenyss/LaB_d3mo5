@@ -14,8 +14,9 @@ Bottom Right Corner:
 Psexec.py to execute commands remotely from "Beachead" to Target Server. Psexec spawns a file on remote server as well as creates a service.
 
 
-https://github.com/divandenyss/attAck_d3mo5/assets/156643542/8dfb9288-0691-429c-821e-98b38dc0ce90
 
+
+https://github.com/divandenyss/attAck_d3mo5/assets/156643542/02c39466-e4d8-41b3-b48c-839b7ca7decc
 
 
 
